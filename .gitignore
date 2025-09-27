@@ -1,0 +1,31 @@
+# Binarios
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binarios
+*.test
+
+# Output del comando go
+go.work
+
+# Dependency directories
+vendor/
+
+# Go workspace file
+go.work.sum
+
+# Archivos de entorno
+.env
+.env.local
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

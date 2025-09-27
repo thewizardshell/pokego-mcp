@@ -1,5 +1,8 @@
 # 🎮 Pokemon MCP Server
 
+<img width="1400" height="933" alt="image" src="https://github.com/user-attachments/assets/ce27b03d-8341-4395-baf4-45f8b5085ec0" />
+
+
 > **Learning Project**: A hands-on exploration of the Model Context Protocol (MCP) using the fun world of Pokemon as a testing ground.
 
 [![Go Version](https://img.shields.io/badge/Go-1.23.5-blue.svg)](https://golang.org/)
